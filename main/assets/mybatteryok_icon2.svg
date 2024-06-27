@@ -1,0 +1,10 @@
+<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <rect stroke="#000" id="svg_3" height="430" width="484" y="70" x="14" fill="#FFDBD2"/>
+  <rect id="svg_5" height="18" width="124" y="52" x="61" stroke="#000" fill="#9ACEE6"/>
+  <text transform="matrix(4.4791 0 0 4.19712 -773.743 -704.4)" stroke="#000" stroke-width="0" font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="50" id="svg_7" y="252.79156" x="190.98338" fill="#529D94">OK</text>
+  <rect id="svg_8" height="18" width="124" y="52" x="325" stroke="#000" fill="#9ACEE6"/>
+ </g>
+
+</svg>

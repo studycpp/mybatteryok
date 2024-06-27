@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的电池OK</string>
+    <string name="title_main">主要</string>
+    <string name="title_option">选项</string>
+    <string name="title_about">关于</string>
+</resources>
