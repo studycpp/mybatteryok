@@ -15,15 +15,12 @@ MybatteryOK는 배터리 사용량 정보를 표시하는 무료 앱으로, 배�
 MybatteryOK เป็นแอปฟรีที่แสดงข้อมูลการใช้แบตเตอรี่ และสามารถตั้งค่าระดับแบตเตอรี่และการเตือนอุณหภูมิเพื่อเตือนให้คุณใช้แบตเตอรี่อย่างถูกต้อง
 
 
-
-
 ![ic_icon](https://github.com/studycpp/MyBatteryOK/assets/27214824/6c5136df-8700-4f44-9cb2-48e353f77609)
 
-![en1](https://github.com/studycpp/mybatteryok/assets/27214824/b745c21e-64ca-43f5-808f-4991376dee1d)
-![en2](https://github.com/studycpp/mybatteryok/assets/27214824/9b977c31-7b5f-4123-b503-f3a91877cfeb)
-![en3](https://github.com/studycpp/mybatteryok/assets/27214824/225bfa3b-4ded-4d89-8b66-7f7d99ad6ee9)
+![en1](https://github.com/user-attachments/assets/6f0b6921-5565-482b-b440-ddd27bb452cf)
+![en2](https://github.com/user-attachments/assets/0e3acad8-ecb7-4c9e-8d44-3ec9418cc43c)
+![en3](https://github.com/user-attachments/assets/c8dab438-e572-47b1-8bc5-bdb34288cd3a)
 
-
-![cc1](https://github.com/studycpp/mybatteryok/assets/27214824/102ae6c4-eb01-49d6-88c0-4cd1c87229df)
-![cc2](https://github.com/studycpp/mybatteryok/assets/27214824/70655bb2-d63d-4ac6-8787-57b3b96b8c29)
-![cc3](https://github.com/studycpp/mybatteryok/assets/27214824/f7c49094-9cf5-4dee-85ce-11cf0cf64b12)
+![cn1](https://github.com/user-attachments/assets/56ab4503-acd0-482e-93fd-4b4ac5116f17)
+![cn2](https://github.com/user-attachments/assets/ba341ee9-0b05-4b8f-80ef-620cfb6a96ac)
+![cn3](https://github.com/user-attachments/assets/22c0a19f-3b41-4562-86ff-cc870e464da4)
