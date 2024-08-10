@@ -16,11 +16,14 @@ MybatteryOK เป็นแอปฟรีที่แสดงข้อมู�
 
 
 ![ic_icon](https://github.com/studycpp/MyBatteryOK/assets/27214824/6c5136df-8700-4f44-9cb2-48e353f77609)
-![en1](https://github.com/user-attachments/assets/6950a545-a814-4700-904a-ff7440bd36f9)
-![en2](https://github.com/user-attachments/assets/8a870bc0-9c9d-48ae-b22e-523826be0e29)
-![en3](https://github.com/user-attachments/assets/d7429234-2a95-46c4-aab3-b57089315eef)
-![cn1](https://github.com/user-attachments/assets/df53dde5-aedc-45f3-b651-c4f774d5d8a3)
-![cn2](https://github.com/user-attachments/assets/e4d59856-1082-46f1-8070-de7af058b0db)
-![cn3](https://github.com/user-attachments/assets/c841bd6b-40e5-4a73-b5bb-7b34f2c3c9fe)
+
+![en1](https://github.com/user-attachments/assets/9a9e812f-b6af-42b0-8461-ca1e0a504f3a)
+![en2](https://github.com/user-attachments/assets/65c042db-1165-4de2-b995-8f300d1f0c65)
+![en3](https://github.com/user-attachments/assets/f1d49031-8d52-48ac-9107-270d339dbd73)
+
+![cn1](https://github.com/user-attachments/assets/a4b7149e-da5a-4e37-b9dd-1a0cc78bceb5)
+![cn2](https://github.com/user-attachments/assets/5b211b94-19f1-4aff-b11a-3cf35b99a03b)
+![cn3](https://github.com/user-attachments/assets/b3d4c39e-21a8-49f8-97ae-d20454c67bf9)
+
 
 
