@@ -1,6 +1,6 @@
 {
-  "version_code":2123,
-  "version_filename":"mybatteryOK_V2.12.3.apk",
-  "version_info":"v2.12.3\n1.Correct the error in obtaining current and use advanced algorithms for calibration to adapt to various models.\n2. Add power alarms.\n3. Improve language and other interface details to adapt to various fonts and rotations.\n4. Launch a new free app project, stay tuned",
-  "download_url":"https://github.com/studycpp/mybatteryok/releases/download/v2.12.3/mybatteryOK_v2.12.3.apk"
+  "version_code":2125,
+  "version_filename":"mybatteryOK_V2.12.5.apk",
+  "version_info":"v2.12.5\n1. Distinguish between charging and discharging power alarms\n2. Further optimize and improve the interface",
+  "download_url":"https://github.com/studycpp/mybatteryok/releases/download/v2.12.5/mybatteryOK_v2.12.5.apk"
 }
