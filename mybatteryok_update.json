@@ -1,6 +1,6 @@
 {
-  "version_code":2126,
-  "version_filename":"mybatteryOK_v2.12.6.apk",
-  "version_info":"v2.12.6\n1. Increase power consumption widgets and optimize the adaptability of each widget after enlarging the font. \n2. Improvement in obtaining current units (internal values of different models have different units). \n3. Interface optimization",
-  "download_url":"https://github.com/studycpp/mybatteryok/releases/download/v2.12.6/mybatteryOK_v2.12.6.apk"
+  "version_code":2127,
+  "version_filename":"mybatteryok_v2.12.7.apk",
+  "version_info":"V2.12.7\n1. Increase power notification\n2. Strive for excellence, improve and optimize interface details, including localizing time formats \n3. Understand that battery charging current may be greater than 10A, further optimize current unit acquisition method",
+  "download_url":"https://github.com/studycpp/mybatteryok/releases/download/v2.12.7/mybatteryok_v2.12.7.apk"
 }
