@@ -1,29 +1,35 @@
 # mybatteryok
-我的电池OK(mybatteryok)是免费的app，用于显示电池使用情况信息，并可以设置电量，温度报警来提醒你正确使用电池
-MybatteryOK is a free app that displays battery usage information, and can set battery level and temperature alarms to remind you to use the battery correctly
-我的電池OK（mybatteryok）是免費的app，用於顯示電池使用方式資訊，並可以設置電量，溫度報警來提醒你正確使用電池
-Το MybatteryOK είναι μια δωρεάν εφαρμογή που εμφανίζει πληροφορίες χρήσης μπαταρίας και μπορεί να ρυθμίσει συναγερμούς στάθμης μπαταρίας και θερμοκρασίας για να σας υπενθυμίσει να χρησιμοποιείτε σωστά την μπαταρία
-MybatteryOK est une application gratuite qui affiche des informations sur l’utilisation de la batterie et peut définir des alarmes de niveau de batterie et de température pour vous rappeler d’utiliser correctement la batterie
-MybatteryOK היא אפליקציה חינמית המציגה מידע על השימוש בסוללה, ויכולה להגדיר רמת סוללה והתראות טמפרטורה כדי להזכיר לך להשתמש בסוללה כראוי
-MybatteryOK ist eine kostenlose App, die Informationen zum Batterieverbrauch anzeigt und Batteriestands- und Temperaturalarme einstellen kann, um Sie daran zu erinnern, den Akku richtig zu verwenden
-MybatteryOK è un'app gratuita che visualizza le informazioni sull'utilizzo della batteria e può impostare allarmi sul livello della batteria e sulla temperatura per ricordarti di utilizzare correttamente la batteria
-MybatteryOKは、バッテリーの使用状況情報を表示する無料アプリで、バッテリーレベルと温度アラームを設定して、バッテリーを正しく使用するように通知できます
-MybatteryOK es una aplicación gratuita que muestra información sobre el uso de la batería y puede configurar alarmas de nivel y temperatura de la batería para recordarle que debe usar la batería correctamente
-MybatteryOK é um aplicativo gratuito que exibe informações de uso da bateria e pode definir alarmes de nível e temperatura da bateria para lembrá-lo de usar a bateria corretamente
-MybatteryOK là một ứng dụng miễn phí hiển thị thông tin sử dụng pin và có thể đặt mức pin và cảnh báo nhiệt độ để nhắc nhở bạn sử dụng pin đúng cách
-MybatteryOK는 배터리 사용량 정보를 표시하는 무료 앱으로, 배터리 잔량 및 온도 알람을 설정하여 배터리를 올바르게 사용하도록 상기시킬 수 있습니다
-MybatteryOK เป็นแอปฟรีที่แสดงข้อมูลการใช้แบตเตอรี่ และสามารถตั้งค่าระดับแบตเตอรี่และการเตือนอุณหภูมิเพื่อเตือนให้คุณใช้แบตเตอรี่อย่างถูกต้อง
+我的电池OK(mybatteryOK)是免费app,用于显示电池使用情况信息,并可以设置电量百分比,温度,充放电功率的报警来提醒你正确使用电池
+我的電池OK(mybatteryOK)是免費app,用於顯示電池使用方式資訊,並可以設置電量百分比，溫度，充放電功率的報警來提醒你正確使用電池
+mybatteryOK is a free app that displays battery usage information and can set alarms for battery percentage, temperature, and charging and discharging power to remind you to use the battery correctly
+mybatteryOK est une application gratuite qui affiche des informations sur l’utilisation de la batterie et peut définir des alarmes pour le pourcentage de la batterie, la température et la puissance de charge et de décharge pour vous rappeler d’utiliser correctement la batterie
+mybatteryOK ist eine kostenlose App, die Informationen zum Batterieverbrauch anzeigt und Alarme für den Batterieprozentsatz, die Temperatur sowie die Lade- und Entladeleistung einstellen kann, um Sie daran zu erinnern, den Akku richtig zu verwenden
+Το mybatteryOK είναι μια δωρεάν εφαρμογή που εμφανίζει πληροφορίες χρήσης μπαταρίας και μπορεί να ρυθμίσει ξυπνητήρια για το ποσοστό της μπαταρίας, τη θερμοκρασία και την ισχύ φόρτισης και εκφόρτισης για να σας υπενθυμίσει να χρησιμοποιείτε σωστά την μπαταρία
+mybatteryOK è un'app gratuita che visualizza le informazioni sull'utilizzo della batteria e può impostare allarmi per la percentuale della batteria, la temperatura e la potenza di carica e scarica per ricordarti di utilizzare correttamente la batteria
+mybatteryOKは、バッテリーの使用状況情報を表示し、バッテリーのパーセンテージ、温度、充電と放電の電力のアラームを設定して、バッテリーを正しく使用するように通知できる無料アプリです
+mybatteryOK는 배터리 사용량 정보를 표시하고 배터리 백분율에 대한 알람을 설정할 수 있는 무료 앱입니다.tage, 온도, 충전 및 방전 전력은 배터리를 올바르게 사용하도록 알려줍니다
+mybatteryOK é um aplicativo gratuito que exibe informações de uso da bateria e pode definir alarmes para porcentagem de bateria, temperatura e carga e descarga de energia para lembrá-lo de usar a bateria corretamente
+mybatteryOK es una aplicación gratuita que muestra información sobre el uso de la batería y puede configurar alarmas para el porcentaje de la batería, la temperatura y la potencia de carga y descarga para recordarle que debe usar la batería correctamente
+mybatteryOK เป็นแอปฟรีที่แสดงข้อมูลการใช้แบตเตอรี่และสามารถตั้งปลุกสําหรับเปอร์เซ็นต์แบตเตอรี่ tage อุณหภูมิและการชาร์จและการคายประจุเพื่อเตือนให้คุณใช้แบตเตอรี่อย่างถูกต้อง
+mybatteryOK là một ứng dụng miễn phí hiển thị thông tin sử dụng pin và có thể đặt báo thức cho phần trăm pin, nhiệt độ và nguồn sạc và xả để nhắc nhở bạn sử dụng pin đúng cách
+mybatteryOK היא אפליקציה חינמית המציגה מידע על שימוש בסוללה ויכולה להגדיר התראות עבור אחוז סוללה, טמפרטורה ועוצמת טעינה ופריקה כדי להזכיר לך להשתמש בסוללה כראוי
+mybatteryOK is een gratis app die informatie over het batterijgebruik weergeeft en alarmen kan instellen voor het batterijpercentage, de temperatuur en het laad- en ontlaadvermogen om u eraan te herinneren de batterij correct te gebruiken
+mybatteryOK é um aplicativo gratuito que exibe informações de uso da bateria e pode definir alarmes para porcentagem da bateria, temperatura e energia de carga e descarga para lembrá-lo de usar a bateria corretamente
+mybatteryOK on ilmainen sovellus, joka näyttää akun käyttötiedot ja voi asettaa hälytyksiä akun prosenttiosuudesta, lämpötilasta sekä lataus- ja purkutehosta muistuttamaan akun oikeasta käytöstä
+mybatteryOK, pil kullanım bilgilerini görüntüleyen ve pili doğru şekilde kullanmanızı hatırlatmak için pil yüzdesi, sıcaklık ve şarj ve deşarj gücü için alarmlar ayarlayabilen ücretsiz bir uygulamadır
+mybatteryOK adalah aplikasi gratis yang menampilkan informasi penggunaan baterai dan dapat mengatur alarm untuk persentase bateraitage, suhu, dan daya pengisian dan pengosongan untuk mengingatkan Anda untuk menggunakan baterai dengan benar
+mybatteryOK एक निःशुल्क ऐप है जो बैटरी उपयोग की जानकारी प्रदर्शित करता है और बैटरी प्रतिशत, तापमान, और चार्जिंग और डिस्चार्जिंग पावर के लिए अलार्म सेट कर सकता है ताकि आपको बैटरी का सही उपयोग करने के लिए याद दिलाया जा सके
+mybatteryOK ialah aplikasi percuma yang memaparkan maklumat penggunaan bateri dan boleh menetapkan penggera untuk peratusan bateri, suhu, dan kuasa pengecasan dan nyahcas untuk mengingatkan anda menggunakan bateri dengan betul
+mybatteryOK është një aplikacion falas që shfaq informacionin e përdorimit të baterisë dhe mund të vendosë alarme për përqindjen e baterisë, temperaturën, dhe fuqinë e ngarkimit dhe shkarkimit për t'ju kujtuar të përdorni baterinë siç duhet
+mybatteryOK هو تطبيق مجاني يعرض معلومات استخدام البطارية ويمكنه ضبط المنبهات لنسبة البطارية ودرجة الحرارة وطاقة الشحن والتفريغ لتذكيرك باستخدام البطارية بشكل صحيح
+mybatteryOK är en gratis app som visar information om batterianvändning och kan ställa in larm för batteriprocent, temperatur och laddnings- och urladdningseffekt för att påminna dig om att använda batteriet på rätt sätt
+mybatteryOK — это бесплатное приложение, которое отображает информацию об использовании батареи и может устанавливать сигналы тревоги о проценте заряда батареи, температуре, а также мощности зарядки и разрядки, чтобы напомнить вам о правильном использовании батареи
+مائی بیٹری او کے ایک مفت ایپ ہے جو بیٹری کے استعمال کی معلومات کو ظاہر کرتی ہے اور بیٹری فیصد ، درجہ حرارت ، اور چارجنگ اور ڈسچارج پاور کے لئے الارم سیٹ کر سکتی ہے تاکہ آپ کو بیٹری کو صحیح طریقے سے استعمال کرنے کی یاد دلائی جاسکے۔
+mybatteryOK একটি নিখরচায় অ্যাপ যা ব্যাটারি ব্যবহারের তথ্য প্রদর্শন করে এবং ব্যাটারির শতাংশ, তাপমাত্রা এবং চার্জিং ও ডিসচার্জিংয়ের জন্য অ্যালার্ম সেট করতে পারে যাতে আপনাকে ব্যাটারিটি সঠিকভাবে ব্যবহার করার কথা মনে করিয়ে দেওয়া যায়
 
 
-![ic_icon](https://github.com/studycpp/MyBatteryOK/assets/27214824/6c5136df-8700-4f44-9cb2-48e353f77609)
 
-![en1](https://github.com/user-attachments/assets/3d99b4c8-8995-4d8d-b003-7eb58c250435)
-![en2](https://github.com/user-attachments/assets/30d49051-b05c-41d5-a46b-421a9fa6a3f1)
-![en3](https://github.com/user-attachments/assets/c2511b25-e8ed-4c8f-b429-52ab2b6359e6)
 
-![cn1](https://github.com/user-attachments/assets/b6859709-95fe-46ba-a968-2095b0c40b03)
-![cn2](https://github.com/user-attachments/assets/38d7bff7-e16d-4e25-a232-dd3b0a150a1a)
-![cn3](https://github.com/user-attachments/assets/808559d1-10b7-496b-bffd-4ad56d192d45)
 
 
 
