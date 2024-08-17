@@ -1,4 +1,3 @@
-# mybatteryok
 我的电池OK(mybatteryOK)是免费app,用于显示电池使用情况信息,并可以设置电量百分比,温度,充放电功率的报警来提醒你正确使用电池
 我的電池OK(mybatteryOK)是免費app,用於顯示電池使用方式資訊,並可以設置電量百分比，溫度，充放電功率的報警來提醒你正確使用電池
 mybatteryOK is a free app that displays battery usage information and can set alarms for battery percentage, temperature, and charging and discharging power to remind you to use the battery correctly
@@ -20,18 +19,14 @@ mybatteryOK, pil kullanım bilgilerini görüntüleyen ve pili doğru şekilde k
 mybatteryOK adalah aplikasi gratis yang menampilkan informasi penggunaan baterai dan dapat mengatur alarm untuk persentase bateraitage, suhu, dan daya pengisian dan pengosongan untuk mengingatkan Anda untuk menggunakan baterai dengan benar
 mybatteryOK एक निःशुल्क ऐप है जो बैटरी उपयोग की जानकारी प्रदर्शित करता है और बैटरी प्रतिशत, तापमान, और चार्जिंग और डिस्चार्जिंग पावर के लिए अलार्म सेट कर सकता है ताकि आपको बैटरी का सही उपयोग करने के लिए याद दिलाया जा सके
 mybatteryOK ialah aplikasi percuma yang memaparkan maklumat penggunaan bateri dan boleh menetapkan penggera untuk peratusan bateri, suhu, dan kuasa pengecasan dan nyahcas untuk mengingatkan anda menggunakan bateri dengan betul
-mybatteryOK është një aplikacion falas që shfaq informacionin e përdorimit të baterisë dhe mund të vendosë alarme për përqindjen e baterisë, temperaturën, dhe fuqinë e ngarkimit dhe shkarkimit për t'ju kujtuar të përdorni baterinë siç duhet
-mybatteryOK هو تطبيق مجاني يعرض معلومات استخدام البطارية ويمكنه ضبط المنبهات لنسبة البطارية ودرجة الحرارة وطاقة الشحن والتفريغ لتذكيرك باستخدام البطارية بشكل صحيح
+mybatteryOK to bezpłatna aplikacja, która wyświetla informacje o zużyciu baterii i może ustawiać alarmy dotyczące procentu baterii, temperatury oraz mocy ładowania i rozładowywania, aby przypomnieć o prawidłowym użytkowaniu baterii
+بلدي بطارية موافق ( mybatteryok ) هو التطبيق مجانا ، وتستخدم لعرض معلومات عن استخدام البطارية ، ويمكن تعيين نسبة مئوية من الكهرباء ، درجة الحرارة ، تهمة والتفريغ السلطة التنبيه لتذكيرك بشكل صحيح استخدام البطارية
 mybatteryOK är en gratis app som visar information om batterianvändning och kan ställa in larm för batteriprocent, temperatur och laddnings- och urladdningseffekt för att påminna dig om att använda batteriet på rätt sätt
 mybatteryOK — это бесплатное приложение, которое отображает информацию об использовании батареи и может устанавливать сигналы тревоги о проценте заряда батареи, температуре, а также мощности зарядки и разрядки, чтобы напомнить вам о правильном использовании батареи
-مائی بیٹری او کے ایک مفت ایپ ہے جو بیٹری کے استعمال کی معلومات کو ظاہر کرتی ہے اور بیٹری فیصد ، درجہ حرارت ، اور چارجنگ اور ڈسچارج پاور کے لئے الارم سیٹ کر سکتی ہے تاکہ آپ کو بیٹری کو صحیح طریقے سے استعمال کرنے کی یاد دلائی جاسکے۔
+MybatteryOK ایک منفی کاروبار ہے جو باتری استعمال معلومات کو دکھاتا ہے اور باتری فیصد، تولید، اور چارڈ/ڈیشارڈ پاور کے لئے الرمنڈ سیٹ کر سکتا ہے تاکہ آپ کو بٹری سیدھی طور پر استعمال کریں
 mybatteryOK একটি নিখরচায় অ্যাপ যা ব্যাটারি ব্যবহারের তথ্য প্রদর্শন করে এবং ব্যাটারির শতাংশ, তাপমাত্রা এবং চার্জিং ও ডিসচার্জিংয়ের জন্য অ্যালার্ম সেট করতে পারে যাতে আপনাকে ব্যাটারিটি সঠিকভাবে ব্যবহার করার কথা মনে করিয়ে দেওয়া যায়
 
-
-
-
-
-
-
-
-
+![icon_large](https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/icon_large.png)
+![en1](https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/en1.webp)
+![en2](https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/en2.webp)
+![en3](https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/en3.webp)
