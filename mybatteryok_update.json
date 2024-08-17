@@ -1,6 +1,6 @@
 {
-  "version_code":2129,
-  "version_filename":"mybatteryok_v2.12.9.apk",
-  "version_info":"v2.12.9\n1.Increase capacity estimation\n2.Add Polish and correct some language errors\n3.Internal optimization",
-  "download_url":"https://github.com/studycpp/mybatteryok/releases/download/v2.12.9/mybatteryok_v2.12.9.apk"
+  "version_code":2150,
+  "version_filename":"mybatteryok_v2.15.0.apk",
+  "version_info":"v2.15.0\n1.Increase capacity estimation\n2.Add Polish and correct some language errors\n3.Internal optimization",
+  "download_url":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/mybatteryok.apk"
 }
