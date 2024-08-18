@@ -1,6 +1,6 @@
 {
-  "version_code":2152,
-  "version_filename":"mybatteryok_v2.15.2.apk",
-  "version_info":"v2.15.2\n1. Fix the issue where the system cannot work due to adjusting the system time, as well as the related time",
+  "version_code":2153,
+  "version_filename":"mybatteryok_v2.15.3.apk",
+  "version_info":"v2.15.3\n1.Fix the issue of system time adjustment causing malfunction, as well as all related time issues",
   "download_url":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/mybatteryok.apk"
 }
