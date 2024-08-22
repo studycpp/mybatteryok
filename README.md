@@ -26,7 +26,7 @@ mybatteryOK — это бесплатное приложение, которое
 MybatteryOK ایک منفی کاروبار ہے جو باتری استعمال معلومات کو دکھاتا ہے اور باتری فیصد، تولید، اور چارڈ/ڈیشارڈ پاور کے لئے الرمنڈ سیٹ کر سکتا ہے تاکہ آپ کو بٹری سیدھی طور پر استعمال کریں
 mybatteryOK একটি নিখরচায় অ্যাপ যা ব্যাটারি ব্যবহারের তথ্য প্রদর্শন করে এবং ব্যাটারির শতাংশ, তাপমাত্রা এবং চার্জিং ও ডিসচার্জিংয়ের জন্য অ্যালার্ম সেট করতে পারে যাতে আপনাকে ব্যাটারিটি সঠিকভাবে ব্যবহার করার কথা মনে করিয়ে দেওয়া যায়
 
-![icon_large](https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/icon_large.png)
-![en1](https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/en1.webp)
-![en2](https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/en2.webp)
-![en3](https://raw.githubusercontent.com/studycpp/mybatteryok/main/pic/en3.webp)
+![icon_large](pic/icon_large.png)
+![en1](pic/en1.webp)
+![en2](pic/en2.webp)
+![en3]pic/en3.webp)
