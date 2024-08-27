@@ -1,6 +1,6 @@
 {
-  "version_code":2153,
-  "version_filename":"mybatteryok_v2.15.3.apk",
-  "version_info":"v2.15.3\n1.Fix the issue of system time adjustment causing malfunction, as well as all related time issues",
+  "version_code":2156,
+  "version_filename":"mybatteryok_v2.15.6.apk",
+  "version_info":"v2.15.6\n1.Correct the drawing error of the earliest value point on the historical curve\n2.Solve the problem of displaying errors due to low estimated capacity\n3.Optimize the speed of checking and upgrading",
   "download_url":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/mybatteryok.apk"
 }
