@@ -1,6 +1,6 @@
 {
-  "version_code":2156,
-  "version_filename":"mybatteryok_v2.15.6.apk",
-  "version_info":"v2.15.6\n1.Correct the drawing error of the earliest value point on the historical curve\n2.Solve the problem of displaying errors due to low estimated capacity\n3.Optimize the speed of checking and upgrading",
+  "version_code":2157,
+  "version_filename":"mybatteryok_v2.15.7.apk",
+  "version_info":"v2.15.7\n1.Correct the drawing error of the earliest value point on the historical curve\n2.Solve the problem of displaying errors due to low estimated capacity\n3.Optimize the speed of checking and upgrading",
   "download_url":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/mybatteryok.apk"
 }
