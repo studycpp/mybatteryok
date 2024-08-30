@@ -1,6 +1,6 @@
 {
-  "version_code":2159,
-  "version_filename":"mybatteryok_v2.15.9.apk",
-  "version_info":"v2.15.9\n1.Detail optimization\n2.Solve the problem of interface not updating when the temperature unit changes",
+  "version_code":2160,
+  "version_filename":"mybatteryok_v2.16.0.apk",
+  "version_info":"v2.16.0\n1.Solve the problem of historical chart display jumping caused by multi-threaded data reading and writing, and support local time format display",
   "download_url":"https://raw.githubusercontent.com/studycpp/mybatteryok/main/mybatteryok.apk"
 }
